@@ -12,4 +12,13 @@ Game description:
  
 Note ! 
   Source HTML & CS code : Udemy course 
+  
+  Game preview
+
+![preview_1](https://user-images.githubusercontent.com/56932618/71529581-181b6f00-28ee-11ea-96b4-76190b6f0613.PNG)
+
+Show Log button
+
+![preview_2](https://user-images.githubusercontent.com/56932618/71529582-19e53280-28ee-11ea-946d-eeb9e7614380.PNG)
+
  
