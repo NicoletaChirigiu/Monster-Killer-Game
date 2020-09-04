@@ -1,5 +1,7 @@
 # Monster Killer Game
 
+https://nicoletachirigiu.github.io/Monster-Killer-Game/ -> test it ! :) 
+
   The Monster Killer game is a project in which I learned the basics of JavaScript. 
   
 Game description:
